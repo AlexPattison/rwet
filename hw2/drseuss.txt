@@ -843,7 +843,7 @@ He turned around fast, and he saw a small Who!
 Little Cindy-Lou Who, who was not more than two.
 The Grinch had been caught by this tiny Who daughter,
 Who'd got out of bed for a cup of cold water.
-She stared at the Grinch and said, "Santy Claus, why,�
+She stared at the Grinch and said, "Santy Claus, why,
 "Why are you taking our Christmas tree? WHY?"
 But, you know, that old Grinch was so smart and so slick,
 He thought up a lie, and he thought it up quick!
@@ -923,7 +923,7 @@ PAT PAT they call him Pat.
 PAT SAT Pat sat on hat.
 PAT CAT Pat sat on cat.
 PAT BAT Pat sat on bat.
-NO PAT NO Don’t sit on that.
+NO PAT NO Donât sit on that.
 SAD DAD BAD HAD Dad is sad.
 Very, very sad.
 He had a bad day. What a day Dad had!
@@ -1166,3 +1166,4 @@ Today is gone. Today was fun.
 Tomorrow is another one.
 Every day, from here to there.
 funny things are everywhere.
+
